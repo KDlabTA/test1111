@@ -1,5 +1,4 @@
 #####
-rm(list=ls())
 #
 # R for Everyone: Advanced Analytics and Graphics Ch01-04.
 # ------------------< 1. basics >-------------------------------
@@ -116,8 +115,8 @@ class(d2)
 # Date-Time Classes: POSIXt
 # Class "POSIXct" represents the (signed) number of seconds since the beginning 
 # of 1970 (in the UTC time zone) as a numeric vector. Class "POSIXlt" is a named list
-# of vectors representing sec: 0?â‚¬?61, min: 0?â‚¬?59, hour: 0?â‚¬?23, mday: 1?â‚¬?31, mon: 0?â‚¬?11, 
-# year: years since 1900, wday: 0?â‚¬?6, starting on Sunday, yday 0?â‚¬?365
+# of vectors representing sec: 0??‚¬?61, min: 0??‚¬?59, hour: 0??‚¬?23, mday: 1??‚¬?31, mon: 0??‚¬?11, 
+# year: years since 1900, wday: 0??‚¬?6, starting on Sunday, yday 0??‚¬?365
 d1 == d2
 options(warn = -1)
 date == d1   # Warning! 
