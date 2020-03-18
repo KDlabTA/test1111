@@ -1,5 +1,4 @@
 #####
-rm(list=ls())
 #
 # R for Everyone: Advanced Analytics and Graphics Ch01-04.
 # ------------------< 1. basics >-------------------------------
